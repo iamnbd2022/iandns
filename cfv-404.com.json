@@ -1,1 +1,1 @@
-{"version":"0.0.1","host":"cfv-404.com","title":"","mainEndpoint":"","endpoints":[{"endpoint":"https://api-oci-1.cfv-404.com:9443","lut":1740264932464,"status":"","isMain":false,"pushable":false,"nodeUuid":""}],"lut":1740264932464}
+{"version":"0.0.1","host":"cfv-404.com","title":"","endpoints":[{"endpoint":"https://api-oci-1.cfv-404.com:9443","lut":1740295781149,"status":"","isMain":false,"pushable":false,"nodeUuid":""}],"lut":1740295781149}
