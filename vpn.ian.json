@@ -1,8 +1,1 @@
-{
-  "version": "0.0.1",
-  "host": "vpn.ian",
-  "title": "",
-  "endpoints": [
-  ],
-  "lastUpdatedAt": "2025-11-08T03:21:25Z"
-}
+{"version":"0.0.1","host":"vpn.ian","title":"","endpoints":[{"endpoint":"https://node-oracle-prod1.ian-vpn.site:9311","certType":"node","status":"","isMain":false,"pushable":false,"nodeUuid":"01K9GQKY6CZSC8SAD2DJEZ707F","resources":null,"lastUpdatedAt":"2025-11-11T09:46:50Z","plannedDowntime":"","location":{"country":"Australia","countryCode":"AU","region":"NSW","regionName":"New South Wales","city":"Huntingwood","zip":""}}],"lastUpdatedAt":"2025-11-11T09:46:50Z"}
