@@ -1,17 +1,1 @@
-{
-  "version": "0.0.1",
-  "host": "cfv-404.com",
-  "title": "",
-  "endpoints": [
-    {
-      "endpoint": "https://api-a-apsoutheast2-0.cfv-404.com:9443",
-      "lut": 1742595348134,
-      "status": "",
-      "isMain": false,
-      "pushable": false,
-      "nodeUuid": "dc04d279-0926-4fc2-a943-7e113fe10ac3",
-      "resources": null
-    }
-  ],
-  "lut": 1744501632213
-}
+{"version":"0.0.1","host":"cfv-404.com","title":"","endpoints":[{"endpoint":"https://api-a-apsoutheast2-0.cfv-404.com:9443","lut":1742595348134,"status":"","isMain":false,"pushable":false,"nodeUuid":"dc04d279-0926-4fc2-a943-7e113fe10ac3","resources":null},{"endpoint":"https://api-p-apsoutheast2-0.cfv-404.com:9443","lut":1744502039712,"status":"","isMain":false,"pushable":false,"nodeUuid":"1234","resources":[{"pathPattern":"channel/","variables":[{"name":"channelUuid","values":["fe954266-bebd-47ed-9608-b85eb8d32c9a"]}]}]}],"lut":1744502039712}
