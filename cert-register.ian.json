@@ -1,9 +1,1 @@
-{
-    "version":"",
-    "host":"cert-register.ian",
-    "title":"",
-    "mainEndpoint":"https://cert-register.ian",
-    "endpoints":[
-    ],
-    "lut":0
-}
+{"version":"","host":"cert-register.ian","title":"","mainEndpoint":"","endpoints":[{"endpoint":"cert-register.ian","lut":0,"isMain":false}],"lut":0}
