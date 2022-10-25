@@ -1,0 +1,16 @@
+{
+   "version": "0.0.1",
+   "host": "default.ian",
+   "title": "IAN",
+   "lut": 1664277315,
+   "endpoints": [
+      {
+         "endpoint": "https://yasi5ohccf.execute-api.us-east-1.amazonaws.com",
+         "lut": 1664272725
+      },
+      {
+         "endpoint": "https://21npfug55g.execute-api.us-east-1.amazonaws.com",
+         "lut": 1664277315
+      }
+   ]
+}
