@@ -4,6 +4,15 @@
    "title": "ian.ian",
    "lut": 1669976019,
    "endpoints": [
+       {
+         "endpoint": "https://yasi6ohccf.execute-api.us-east-1.amazonaws.com",
+         "lut": 1664272725
+      },
+      {
+         "endpoint": "https://yasi7ohccf.execute-api.us-east-1.amazonaws1.com",
+         "lut": 1664272725
+      },
+ 
       {
          "endpoint": "https://yasi5ohccf.execute-api.us-east-1.amazonaws.com",
          "lut": 1664272725
