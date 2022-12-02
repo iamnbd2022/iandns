@@ -2,7 +2,7 @@
    "version": "0.0.1",
    "host": "ian.ian",
    "title": "ian.ian",
-   "lut": 1669974797,
+   "lut": 1669975850,
    "endpoints": [
       {
          "endpoint": "https://yasi5ohccf.execute-api.us-east-1.amazonaws.com",
@@ -27,6 +27,10 @@
       {
          "endpoint": "https://izwgqyyw8d.execute-api.us-east-1.amazonaws.com",
          "lut": 1669974797
+      },
+      {
+         "endpoint": "https://d59xv7wkge.execute-api.us-east-1.amazonaws.com",
+         "lut": 1669975850
       }
    ]
 }
