@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "filter": "*://*.google.com",
+            "redirectUrl": "bbc.com"
+        }
+    ]
+}
