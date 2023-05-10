@@ -1,0 +1,13 @@
+{
+   "version": "0.0.1",
+   "host": "test.ian",
+   "title": "test.ian",
+   "lut": 1664277315,
+   "mainEndpoint": "https://github.com/iamnbd2022/ian-test-0",
+   "endpoints": [
+      {
+         "endpoint": "https://github.com/iamnbd2022/ian-test-0",
+         "lut": 1664272725
+      }
+   ]
+}
