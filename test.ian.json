@@ -3,10 +3,10 @@
    "host": "test.ian",
    "title": "test.ian",
    "lut": 1664277315,
-   "mainEndpoint": "https://github.com/iamnbd2022/ian-test-0",
+   "mainEndpoint": "https://iamnbd2022.github.io/ian-test-0",
    "endpoints": [
       {
-         "endpoint": "https://github.com/iamnbd2022/ian-test-0",
+         "endpoint": "https://iamnbd2022.github.io/ian-test-0",
          "lut": 1664272725
       }
    ]
