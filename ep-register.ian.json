@@ -1,0 +1,12 @@
+{
+   "version": "0.0.1",
+   "host": "dns-register.ian",
+   "title": "dns-register.ian",
+   "lut": 1669976019,
+   "endpoints": [
+       {
+         "endpoint": "https://nzrmt8wga9.execute-api.us-east-1.amazonaws.com",
+         "lut": 1664272725
+      }
+   ]
+}
