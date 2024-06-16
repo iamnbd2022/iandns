@@ -1,0 +1,12 @@
+{
+   "version": "0.0.1",
+   "host": "cfv.ian",
+   "title": "cfv.ian",
+   "lut": 1669976019,
+   "endpoints": [
+       {
+         "endpoint": "http://127.0.0.1:6133",
+         "lut": 1664272725
+      }
+   ]
+}
