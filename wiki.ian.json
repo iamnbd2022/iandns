@@ -1,16 +1,1 @@
-{
-   "version": "0.0.1",
-   "host": "wiki.ian",
-   "title": "wiki.ian",
-   "lut": 1664277315,
-   "endpoints": [
-      {
-         "endpoint": "https://yasi5ohccf.execute-api.us-east-1.amazonaws.com",
-         "lut": 1664272725
-      },
-      {
-         "endpoint": "https://21npfug55g.execute-api.us-east-1.amazonaws.com",
-         "lut": 1664277315
-      }
-   ]
-}
+{"version":"0.0.1","host":"wiki.ian","title":"wiki.ian","mainEndpoint":"","endpoints":[],"lut":1664277315}
