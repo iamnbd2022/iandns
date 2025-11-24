@@ -1,6 +1,0 @@
-{
-   "version": "0.0.1",
-   "host": "test1",
-   "title": "IAN",
-   "ips": [{"ip": "127.0.0.1", "restricted": true}]
-}
